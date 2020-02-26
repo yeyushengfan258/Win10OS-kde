@@ -5,7 +5,6 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg7384"
@@ -23,7 +22,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -37,14 +36,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1019"
+     inkscape:window-height="1011"
      id="namedview9"
      showgrid="true"
      inkscape:zoom="10.246488"
-     inkscape:cx="26.454846"
+     inkscape:cx="-15.705941"
      inkscape:cy="17.384244"
      inkscape:window-x="0"
-     inkscape:window-y="36"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg7384"
      inkscape:snap-bbox="true"
@@ -55,18 +54,6 @@
   </sodipodi:namedview>
   <defs
      id="defs8">
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient837">
-      <stop
-         style="stop-color:#7346ff;stop-opacity:1"
-         offset="0"
-         id="stop833" />
-      <stop
-         style="stop-color:#4187ff;stop-opacity:1"
-         offset="1"
-         id="stop835" />
-    </linearGradient>
     <style
        id="current-color-scheme"
        type="text/css">
@@ -75,16 +62,6 @@
     <style
        id="style819"
        type="text/css" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient837"
-       id="linearGradient839"
-       x1="4.5"
-       y1="67"
-       x2="30"
-       y2="37"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(-1.25,-36)" />
   </defs>
   <g
      id="office-chart-pie">
@@ -96,9 +73,9 @@
        x="0"
        y="0" />
     <path
-       style="fill:url(#linearGradient839);fill-opacity:1;stroke-width:0.03515625"
+       style="fill:#191919;fill-opacity:1;stroke-width:0.02929688;opacity:0.8"
        inkscape:connector-curvature="0"
-       d="m 3.25,25 6,-1.875 V 8.5 l 10.5,-3 V 27.250001 L 4,25.375 19.75,31 l 9,-1.874999 V 3.25 L 19.675,1 3.25,6.625 Z"
+       d="m 5.375,23.5 5,-1.5625 V 9.75 l 8.75,-2.5 V 25.375001 L 6,23.8125 19.125,28.5 l 7.5,-1.562499 V 5.375 L 19.0625,3.5 5.375,8.1875 Z"
        p-id="88315"
        id="path823" />
   </g>
