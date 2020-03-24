@@ -1,6 +1,6 @@
-## Tencent KDE Theme
+## We10XOSWT KDE Theme
 
-Tencent kde is a light clean theme for KDE Plasma desktop.
+We10XOSWT kde is a light clean theme for KDE Plasma desktop.
 
 In this repository you'll find:
 

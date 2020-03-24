@@ -8,7 +8,7 @@ PLASMA_DIR="$HOME/.local/share/plasma/desktoptheme"
 LOOKFEEL_DIR="$HOME/.local/share/plasma/look-and-feel"
 KVANTUM_DIR="$HOME/.config/Kvantum"
 
-THEME_NAME=Tencent
+THEME_NAME=We10XOSWT
 
 install() {
   local name=${1}
@@ -28,7 +28,7 @@ install() {
   [[ -d ${AURORAE_THEME} ]] && rm -r ${AURORAE_THEME}
   [[ -d ${PLASMA_THEME} ]] && rm -r ${PLASMA_THEME}
   [[ -d ${LOOKFEEL_THEME} ]] && rm -r ${LOOKFEEL_THEME}
-  [[ -d ${SCHEMES_DIR}/Tencent.colors ]] && rm -r ${SCHEMES_DIR}/Tencent.colors
+  [[ -d ${SCHEMES_DIR}/We10XOSWT.colors ]] && rm -r ${SCHEMES_DIR}/We10XOSWT.colors
   [[ -d ${KVANTUM_THEME} ]] && rm -rf ${KVANTUM_THEME}
 
   cp -ur ${SRC_DIR}/aurorae/${name}${color}                                          ${AURORAE_DIR}
@@ -37,14 +37,14 @@ install() {
   cp -ur ${SRC_DIR}/plasma/look-and-feel/com.github.yeyushengfan258.${name}${color}      ${LOOKFEEL_DIR}
 
   [[ ${color} == '' ]] && \
-  cp -ur ${SRC_DIR}/color-schemes/Tencent.colors                                    ${SCHEMES_DIR} && \
-  cp -ur ${SRC_DIR}/color-schemes/Tencent.colors                                    ${PLASMA_DIR}/${name}/colors
+  cp -ur ${SRC_DIR}/color-schemes/We10XOSWT.colors                                    ${SCHEMES_DIR} && \
+  cp -ur ${SRC_DIR}/color-schemes/We10XOSWT.colors                                    ${PLASMA_DIR}/${name}/colors
 
   [[ ${color} == '-light' ]] && \
-  cp -ur ${SRC_DIR}/color-schemes/Tencent.colors                               ${SCHEMES_DIR}
+  cp -ur ${SRC_DIR}/color-schemes/We10XOSWT.colors                               ${SCHEMES_DIR}
 }
 
-echo "Installing 'Tencent kde themes'..."
+echo "Installing 'We10XOSWT kde themes'..."
 
 install "${name:-${THEME_NAME}}"
 

@@ -1,5 +1,5 @@
 
-Tencent sddm theme for KDE Plasma desktop.
+We10XOSWT sddm theme for KDE Plasma desktop.
 
 ## Installation
 
