@@ -46,8 +46,8 @@
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:zoom="9.8842977"
-     inkscape:cx="12.236253"
-     inkscape:cy="33.546686"
+     inkscape:cx="26.602473"
+     inkscape:cy="33.344345"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -478,7 +478,7 @@
      id="top"
      transform="translate(0,-904.36)">
     <rect
-       style="color:#eff0f1;fill:#dcdcdc;opacity:1;fill-opacity:1"
+       style="color:#eff0f1;fill:#ebebeb;opacity:1;fill-opacity:1"
        id="rect42"
        height="32"
        width="6"
@@ -508,7 +508,7 @@
          id="path47" />
     </g>
     <path
-       style="color:#eff0f1;fill:#dcdcdc;opacity:1;fill-opacity:1"
+       style="color:#eff0f1;fill:#ebebeb;opacity:1;fill-opacity:1"
        d="M 19 6 C 15.676 6 13 8.676 13 12 L 17 12 L 18 12 L 19 12 L 19 11 L 19 7 L 19 6 z "
        transform="translate(0,904.36)"
        id="path55" />
@@ -517,7 +517,7 @@
      id="bottom"
      transform="translate(0,-904.36)">
     <rect
-       style="color:#eff0f1;fill:#dcdcdc;opacity:1;fill-opacity:1"
+       style="color:#eff0f1;fill:#ebebeb;opacity:1;fill-opacity:1"
        id="rect69"
        height="32"
        width="6"
@@ -538,7 +538,7 @@
      id="left"
      transform="translate(0,-904.36)">
     <rect
-       style="color:#eff0f1;fill:#dcdcdc;opacity:1;fill-opacity:1"
+       style="color:#eff0f1;fill:#ebebeb;opacity:1;fill-opacity:1"
        id="rect96"
        height="32"
        width="6"
@@ -559,7 +559,7 @@
      id="right"
      transform="translate(0,-904.36)">
     <rect
-       style="color:#eff0f1;fill:#dcdcdc;opacity:1;fill-opacity:1"
+       style="color:#eff0f1;fill:#ebebeb;opacity:1;fill-opacity:1"
        id="rect101"
        height="32"
        width="6"
@@ -585,7 +585,7 @@
        y="916.35999"
        x="19" />
     <rect
-       style="color:#eff0f1;fill:#dcdcdc;opacity:1;fill-opacity:1"
+       style="color:#eff0f1;fill:#ebebeb;opacity:1;fill-opacity:1"
        id="rect108"
        height="32"
        width="32"

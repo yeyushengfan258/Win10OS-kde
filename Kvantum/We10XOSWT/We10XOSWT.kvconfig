@@ -74,8 +74,8 @@ saturation=1.00
 shadowless_popup=false
 
 [GeneralColors]
-window.color=#F5F5F5
-base.color=#F5F5F5
+window.color=#f0f5fa
+base.color=#f0f5fa
 alt.base.color=#f8f8f8
 button.color=#f2f2f2
 light.color=#ffffff
@@ -96,7 +96,7 @@ progress.indicator.text.color=#444444
 
 [Hacks]
 transparent_ktitle_label=true
-transparent_dolphin_view=true
+transparent_dolphin_view=false
 transparent_pcmanfm_sidepane=true
 blur_translucent=true
 transparent_menutitle=true
