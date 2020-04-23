@@ -37,7 +37,7 @@
      inkscape:pageopacity="0.53333333"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1007"
+     inkscape:window-height="971"
      id="namedview57"
      showgrid="true"
      inkscape:snap-bbox="true"
@@ -47,10 +47,10 @@
      inkscape:snap-smooth-nodes="true"
      inkscape:snap-nodes="true"
      inkscape:zoom="4.2588456"
-     inkscape:cx="184.71825"
+     inkscape:cx="142.57068"
      inkscape:cy="147.15111"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="38"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg4198">
     <inkscape:grid
@@ -259,7 +259,7 @@
        r="3" />
   </defs>
   <path
-     style="fill:#f0f5fa;fill-opacity:1;fill-rule:evenodd;stroke:none;opacity:0.8"
+     style="fill:#ececec;fill-opacity:1;fill-rule:evenodd;stroke:none;opacity:1"
      id="decoration-center"
      d="m 101,101 v 98 h 98 v -98 z" />
   <g
@@ -271,7 +271,7 @@
        d="m 81,853.36216 v 98 h 5 v -98 z"
        inkscape:connector-curvature="0" />
     <path
-       style="fill:#f0f5fa;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.72500002;opacity:0.8"
+       style="fill:#ececec;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.72500002;opacity:1"
        id="path5064"
        d="m 101,951.36156 v -97.9994 H 86 v 98 z" />
   </g>
@@ -279,7 +279,7 @@
      id="decoration-top"
      transform="translate(0,-752.36216)">
     <path
-       style="fill:#f0f5fa;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.88800001;opacity:0.8"
+       style="fill:#ececec;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.88800001;opacity:1"
        id="path1620"
        d="M 101.00061,853.36216 H 199 v -18 h -98 z" />
     <path
@@ -301,7 +301,7 @@
        d="m 101,971.36216 h 98 v -14 h -98 z"
        inkscape:connector-curvature="0" />
     <path
-       style="fill:#f0f5fa;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.51200002;opacity:0.8"
+       style="fill:#ececec;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.51200002;opacity:1"
        id="path1626"
        d="M 198.9994,951.36216 H 101 v 6 h 98 z" />
   </g>
@@ -321,7 +321,7 @@
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccc" />
     <path
-       style="fill:#f0f5fa;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.46200001;opacity:0.8"
+       style="fill:#ececec;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.46200001;opacity:1"
        d="M 86 199 C 86 202.324 88.676 205 92 205 L 101 205 L 101 199 L 86 199 z "
        id="path1816"
        transform="translate(0,752.36216)" />
@@ -342,7 +342,7 @@
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccsscc" />
     <path
-       style="fill:#f0f5fa;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.46200001;opacity:0.8"
+       style="fill:#ececec;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.46200001;opacity:1"
        d="M 92 83 C 88.676 83 86 85.676 86 89 L 86 99 L 86 101 L 88 101 L 99 101 L 101 101 L 101 99 L 101 85 L 101 83 L 99 83 L 92 83 z "
        id="path5070"
        transform="translate(0,752.36216)" />
@@ -361,7 +361,7 @@
        d="m 81,853.36216 v 98 h 5 v -98 z"
        inkscape:connector-curvature="0" />
     <path
-       style="fill:#f0f5fa;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.72500002;opacity:0.8"
+       style="fill:#ececec;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.72500002;opacity:1"
        id="path5020"
        d="m 101,951.36156 v -97.9994 H 86 v 98 z" />
   </g>
