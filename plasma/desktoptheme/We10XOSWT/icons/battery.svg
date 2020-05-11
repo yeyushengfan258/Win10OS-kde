@@ -22,16 +22,16 @@
        type="text/css"
        id="current-color-scheme">
       .ColorScheme-Text {
-        color:#323232;
+        color:#eaeaea;
       }
       .ColorScheme-Background{
         color:#eff0f1;
       }
       .ColorScheme-ViewText {
-        color:#323232;
+        color:#eaeaea;
       }
       .ColorScheme-ViewBackground{
-        color:#323232;
+        color:#ffffff;
       }
       .ColorScheme-ViewHover {
         color:#000000;
@@ -40,7 +40,7 @@
         color:#5a5a5a;
       }
       .ColorScheme-ButtonText {
-        color:#323232;
+        color:#eaeaea;
       }
       .ColorScheme-ButtonBackground{
         color:#E9E8E8;
@@ -56,7 +56,7 @@
        id="style5"
        type="text/css">
       .ColorScheme-Text {
-        color:#323232;
+        color:#eaeaea;
       }
       .ColorScheme-Background {
         color:#eff0f1;
@@ -65,7 +65,7 @@
         color:#3daee9;
       }
       .ColorScheme-ViewText {
-        color:#323232;
+        color:#eaeaea;
       }
       .ColorScheme-ViewBackground {
         color:#fcfcfc;
@@ -77,7 +77,7 @@
         color:#3daee9;
       }
       .ColorScheme-ButtonText {
-        color:#323232;
+        color:#eaeaea;
       }
       .ColorScheme-ButtonBackground {
         color:#eff0f1;
@@ -107,9 +107,9 @@
      showgrid="true"
      inkscape:current-layer="layer1"
      inkscape:document-units="px"
-     inkscape:cy="-3.6014587"
-     inkscape:cx="-50.865052"
-     inkscape:zoom="2.828427"
+     inkscape:cy="8.045924"
+     inkscape:cx="16.092695"
+     inkscape:zoom="1.9999999"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
      borderopacity="1.0"
@@ -172,7 +172,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -532,7 +532,7 @@
       <g
          id="g4631">
         <rect
-           style="opacity:1;fill:#ff3232;fill-opacity:1;stroke:none"
+           style="opacity:1;fill:#da4453;fill-opacity:1;stroke:none"
            id="rect4577-9-1"
            width="8"
            height="8"
@@ -543,7 +543,7 @@
            class="ColorScheme-Background"
            id="rect4622"
            d="m 275.24275,441.50504 -0.70703,0.70703 2.29297,2.29297 -2.29297,2.29297 0.70703,0.70703 2.29297,-2.29297 2.29297,2.29297 0.70703,-0.70703 -2.29297,-2.29297 2.29297,-2.29297 -0.70703,-0.70703 -2.29297,2.29297 z"
-           style="opacity:1;fill:#eaeaea;fill-opacity:1;stroke:none;stroke-width:0.111692;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none;stroke-width:0.111692;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
            inkscape:connector-curvature="0" />
       </g>
     </g>
@@ -802,13 +802,13 @@
          y="396.50504"
          ry="0" />
       <path
-         style="opacity:1;fill:#ff3232;fill-opacity:1;stroke:none"
+         style="opacity:1;fill:#da4453;fill-opacity:1;stroke:none"
          d="m -132.46428,406.50504 v 12 h 25 v -3 c 0.554,0 1,-0.446 1,-1 v -4 c 0,-0.554 -0.446,-1 -1,-1 v -3 z m 1,1 h 23 v 3 4 3 h -23 z"
          id="path4341"
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="ccccsscccccccccc" />
       <path
-         style="opacity:1;fill:#ff3232;fill-opacity:1;stroke:none"
+         style="opacity:1;fill:#da4453;fill-opacity:1;stroke:none"
          d="m -130.46428,408.50504 h 1 l 2,8 h -3 z"
          id="path4343"
          inkscape:connector-curvature="0"
@@ -829,7 +829,7 @@
          inkscape:connector-curvature="0"
          id="path4349"
          d="m -164.46428,406.50504 v 12 h 25 v -3 c 0.554,0 1,-0.446 1,-1 v -4 c 0,-0.554 -0.446,-1 -1,-1 v -3 z m 1,1 h 23 v 3 4 3 h -23 z"
-         style="opacity:1;fill:#ff3232;fill-opacity:1;stroke:none" />
+         style="opacity:1;fill:#da4453;fill-opacity:1;stroke:none" />
     </g>
     <g
        id="battery-ups">
@@ -895,7 +895,7 @@
       <g
          id="g4580">
         <rect
-           style="opacity:1;fill:#ff3232;fill-opacity:1;stroke:none"
+           style="opacity:1;fill:#da4453;fill-opacity:1;stroke:none"
            id="rect4577"
            width="10"
            height="10"
@@ -905,7 +905,7 @@
         <path
            class="ColorScheme-Background"
            inkscape:connector-curvature="0"
-           style="opacity:1;fill:#eaeaea;fill-opacity:1;stroke:none;stroke-width:0.111692;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none;stroke-width:0.111692;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
            d="m 144.24275,448.505 -0.70703,0.70703 2.29297,2.29297 -2.29297,2.29297 0.70703,0.70703 2.29297,-2.29297 2.29297,2.29297 0.70703,-0.70703 -2.29297,-2.29297 2.29297,-2.29297 -0.70703,-0.70703 -2.29297,2.29297 z"
            id="rect4622-0" />
       </g>
@@ -923,7 +923,7 @@
          inkscape:connector-curvature="0"
          id="path966"
          d="m 238.53472,430.50586 v 1 1 h -1 v 2 2.41406 l 2,2 v 4.58594 h 3 v -4.58594 l 2,-2 v -2.41406 -2 h -1 v -2 h -2 -1 z m 2,5 h 1 v 0.17187 l -0.5,0.5 -0.5,-0.5 z"
-         style="opacity:1;fill:#eaeaea;fill-opacity:1;stroke:none"
+         style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none"
          class="ColorScheme-Background" />
       <path
          inkscape:connector-curvature="0"

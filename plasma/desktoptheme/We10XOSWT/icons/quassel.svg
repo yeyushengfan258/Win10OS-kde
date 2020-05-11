@@ -22,7 +22,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -40,8 +40,8 @@
      id="namedview14"
      showgrid="true"
      inkscape:zoom="10.727273"
-     inkscape:cx="1.9159783"
-     inkscape:cy="4.5192158"
+     inkscape:cx="22.051571"
+     inkscape:cy="4.5192157"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -58,50 +58,59 @@
   </defs>
   <g
      id="quassel"
-     transform="translate(-1,-1)">
+     transform="translate(-1 -1)">
     <path
-       style="fill:#ffffff;fill-opacity:0.01000001;stroke:none"
-       inkscape:connector-curvature="0"
        id="rect3881"
-       d="M 1,1 H 23 V 23 H 1 Z" />
+       fill="#fff"
+       fill-opacity=".01"
+       stroke="none"
+       d="M1 1h22v22H1z" />
     <path
-       inkscape:connector-curvature="0"
-       d="m 11,3 a 8,8 0 1 0 0,16 8,8 0 0 0 0,-16 z m 0,1 a 7,7 0 1 1 0,14 7,7 0 0 1 0,-14 z m 2,7 a 3,3 0 1 0 0,6 3,3 0 0 0 0,-6 z"
-       transform="translate(1,1)"
+       d="M11 3a8 8 0 1 0 0 16 8 8 0 0 0 0-16zm0 1a7 7 0 1 1 0 14 7 7 0 0 1 0-14zm2 7a3 3 0 1 0 0 6 3 3 0 0 0 0-6z"
+       transform="translate(1 1)"
        id="path2999"
        class="ColorScheme-Text"
-       style="color:#d3dae3;fill:#323232;fill-opacity:1;stroke:none" />
+       fill="currentColor"
+       fill-opacity="1"
+       stroke="none"
+       style="fill:#eaeaea;fill-opacity:1" />
   </g>
   <g
-     transform="translate(-25,-1)"
+     transform="translate(-25 -1)"
      id="quassel_inactive">
     <path
-       style="fill:#ffffff;fill-opacity:0.01000001;stroke:none"
-       inkscape:connector-curvature="0"
        id="rect3777"
-       d="M 1,1 H 23 V 23 H 1 Z" />
+       fill="#fff"
+       fill-opacity=".01"
+       stroke="none"
+       d="M1 1h22v22H1z" />
     <path
-       inkscape:connector-curvature="0"
        class="ColorScheme-Text"
        id="path3779"
-       transform="translate(1,1)"
-       d="m 11,3 a 8,8 0 1 0 0,16 8,8 0 0 0 0,-16 z m 0,1 a 7,7 0 1 1 0,14 7,7 0 0 1 0,-14 z m 2,7 a 3,3 0 1 0 0,6 3,3 0 0 0 0,-6 z"
-       style="color:#d3dae3;opacity:0.2;fill:#323232;fill-opacity:1;stroke:none" />
+       transform="translate(1 1)"
+       d="M11 3a8 8 0 1 0 0 16 8 8 0 0 0 0-16zm0 1a7 7 0 1 1 0 14 7 7 0 0 1 0-14zm2 7a3 3 0 1 0 0 6 3 3 0 0 0 0-6z"
+       opacity=".2"
+       fill="currentColor"
+       fill-opacity="1"
+       stroke="none"
+       style="fill:#eaeaea;fill-opacity:1" />
   </g>
   <g
-     style="stroke:none"
-     transform="translate(23,-1)"
-     id="quassel_message">
+     transform="translate(23 -1)"
+     id="quassel_message"
+     stroke="none">
     <path
-       style="fill:#ffffff;fill-opacity:0.01000001"
-       inkscape:connector-curvature="0"
        id="rect3785"
-       d="M 1,1 H 23 V 23 H 1 Z" />
+       fill="#fff"
+       fill-opacity=".01"
+       d="M1 1h22v22H1z" />
     <path
-       inkscape:connector-curvature="0"
        id="path3787"
-       transform="translate(1,1)"
-       d="m 11,3 a 8,8 0 1 0 0,16 8,8 0 0 0 0,-16 z m 0,1 a 7,7 0 1 1 0,14 7,7 0 0 1 0,-14 z m 2,7 a 3,3 0 1 0 0,6 3,3 0 0 0 0,-6 z"
-       style="color:#3daee6;fill:#3278ff;fill-opacity:1" />
+       transform="translate(1 1)"
+       d="M11 3a8 8 0 1 0 0 16 8 8 0 0 0 0-16zm0 1a7 7 0 1 1 0 14 7 7 0 0 1 0-14zm2 7a3 3 0 1 0 0 6 3 3 0 0 0 0-6z"
+       fill="currentColor"
+       fill-opacity="1"
+       color="#3daee6"
+       style="fill:#3278ff;fill-opacity:1" />
   </g>
 </svg>

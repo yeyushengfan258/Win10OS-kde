@@ -65,7 +65,7 @@
        transform="translate(-4,22.110913)"
        id="g860">
       <rect
-         style="opacity:1;fill:#323232;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.3651484;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:3;stroke-opacity:1;paint-order:stroke fill markers"
+         style="opacity:1;fill:#eaeaea;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.3651484;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:3;stroke-opacity:1;paint-order:stroke fill markers"
          id="rect945"
          width="1"
          height="10"
@@ -81,7 +81,7 @@
          height="10"
          width="1"
          id="rect856"
-         style="opacity:1;fill:#323232;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.3651484;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:3;stroke-opacity:1;paint-order:stroke fill markers" />
+         style="opacity:1;fill:#eaeaea;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.3651484;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:3;stroke-opacity:1;paint-order:stroke fill markers" />
     </g>
   </g>
   <g
@@ -97,7 +97,7 @@
        inkscape:connector-curvature="0"
        id="rect862"
        d="m 36.000977,7.1113282 -0.707032,0.7070313 -6.365234,6.3632815 0.707031,0.707031 6.365235,-6.3632812 6.363281,6.3632812 0.707031,-0.707031 -6.363281,-6.3632815 z"
-       style="opacity:0.3;fill:#323232;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.3651484;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:3;stroke-opacity:1;paint-order:stroke fill markers" />
+       style="opacity:0.3;fill:#eaeaea;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.3651484;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:3;stroke-opacity:1;paint-order:stroke fill markers" />
   </g>
   <g
      id="deactivated-center">
@@ -110,7 +110,7 @@
        y="0" />
     <path
        inkscape:connector-curvature="0"
-       style="opacity:0.3;fill:#323232;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.3651484;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:3;stroke-opacity:1;paint-order:stroke fill markers"
+       style="opacity:0.3;fill:#eaeaea;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.3651484;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:3;stroke-opacity:1;paint-order:stroke fill markers"
        d="m 61.000977,7.1113281 -0.707032,0.7070313 -6.365234,6.3632816 0.707031,0.707031 6.365235,-6.3632813 6.363281,6.3632813 0.707031,-0.707031 -6.363281,-6.3632816 z"
        id="path885" />
   </g>
@@ -137,9 +137,9 @@
            height="10"
            width="1"
            id="rect876"
-           style="opacity:1;fill:#323232;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.3651484;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:3;stroke-opacity:1;paint-order:stroke fill markers" />
+           style="opacity:1;fill:#eaeaea;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.3651484;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:3;stroke-opacity:1;paint-order:stroke fill markers" />
         <rect
-           style="opacity:1;fill:#323232;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.3651484;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:3;stroke-opacity:1;paint-order:stroke fill markers"
+           style="opacity:1;fill:#eaeaea;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.3651484;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:3;stroke-opacity:1;paint-order:stroke fill markers"
            id="rect878"
            width="1"
            height="10"
@@ -149,7 +149,7 @@
            transform="rotate(-45)" />
       </g>
       <rect
-         style="opacity:0.1;fill:#323232;fill-opacity:1;stroke:none;stroke-width:1.10000002;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="opacity:0.1;fill:#eaeaea;fill-opacity:1;stroke:none;stroke-width:1.10000002;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect899"
          width="22"
          height="22"
@@ -175,7 +175,7 @@
          transform="translate(-29,47.110913)"
          id="g913">
         <rect
-           style="opacity:1;fill:#323232;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.3651484;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:3;stroke-opacity:1;paint-order:stroke fill markers"
+           style="opacity:1;fill:#eaeaea;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.3651484;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:3;stroke-opacity:1;paint-order:stroke fill markers"
            id="rect909"
            width="1"
            height="10"
@@ -191,7 +191,7 @@
            height="10"
            width="1"
            id="rect911"
-           style="opacity:1;fill:#323232;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.3651484;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:3;stroke-opacity:1;paint-order:stroke fill markers" />
+           style="opacity:1;fill:#eaeaea;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.3651484;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:3;stroke-opacity:1;paint-order:stroke fill markers" />
       </g>
       <rect
          ry="0"
@@ -200,7 +200,7 @@
          height="22"
          width="22"
          id="rect915"
-         style="opacity:0.2;fill:#323232;fill-opacity:1;stroke:none;stroke-width:1.10000002;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         style="opacity:0.2;fill:#eaeaea;fill-opacity:1;stroke:none;stroke-width:1.10000002;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     </g>
   </g>
 </svg>

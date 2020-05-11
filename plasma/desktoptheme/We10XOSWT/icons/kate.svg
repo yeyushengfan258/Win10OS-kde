@@ -12,7 +12,7 @@
    height="22"
    version="1"
    sodipodi:docname="kate.svg"
-   inkscape:version="0.92.4 5da689c313, 2019-01-14">
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
   <metadata
      id="metadata13">
     <rdf:RDF>
@@ -21,12 +21,11 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <sodipodi:namedview
-     pagecolor="#c8c8c8"
+     pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1"
      objecttolerance="10"
@@ -34,21 +33,17 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1007"
+     inkscape:window-width="1366"
+     inkscape:window-height="707"
      id="namedview11"
-     showgrid="true"
+     showgrid="false"
      inkscape:zoom="7.4519915"
-     inkscape:cx="-9.5554743"
+     inkscape:cx="19.430066"
      inkscape:cy="-2.1184702"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg2817">
-    <inkscape:grid
-       type="xygrid"
-       id="grid825" />
-  </sodipodi:namedview>
+     inkscape:current-layer="svg2817" />
   <defs
      id="defs12">
     <style
@@ -80,7 +75,7 @@
        d="m 505.9931,-27.11922 v 3.12 h 3.12 l 7.88,-7.88 -3.12,-3.12 z m 13.76,-7.51 c 0.33,-0.33 0.33,-0.85 0,-1.18 l -1.95,-1.95 c -0.33,-0.33 -0.85,-0.33 -1.18,0 l -1.63,1.64 3.12,3.12 z"
        id="path5071"
        sodipodi:nodetypes="cccccccsscccc"
-       style="fill:#323232;fill-opacity:1;stroke:none" />
+       style="fill:#dedede;fill-opacity:1;stroke:none" />
   </g>
   <g
      id="22-22-kate">
@@ -114,7 +109,7 @@
          d="m 505.9931,-27.11922 v 3.12 h 3.12 l 7.88,-7.88 -3.12,-3.12 z m 13.76,-7.51 c 0.33,-0.33 0.33,-0.85 0,-1.18 l -1.95,-1.95 c -0.33,-0.33 -0.85,-0.33 -1.18,0 l -1.63,1.64 3.12,3.12 z"
          id="path836"
          sodipodi:nodetypes="cccccccsscccc"
-         style="fill:#323232;fill-opacity:1;stroke:none" />
+         style="fill:#dedede;fill-opacity:1;stroke:none" />
     </g>
   </g>
 </svg>

@@ -22,7 +22,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -77,7 +77,7 @@
      id="namedview26"
      showgrid="true"
      inkscape:zoom="10.727273"
-     inkscape:cx="11.463919"
+     inkscape:cx="31.599512"
      inkscape:cy="35.133044"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -101,7 +101,7 @@
        sodipodi:nodetypes="cccccccc"
        id="path5477-8"
        d="M 5,13 5.5595491,13.559549 6,14 l 5,-5 5,5 1,-1 -6,-6 z"
-       style="color:#31363b;fill:#323232;fill-opacity:1;stroke-width:1.29099"
+       style="color:#31363b;fill:#eaeaea;fill-opacity:1;stroke-width:1.29099"
        inkscape:connector-curvature="0"
        class="ColorScheme-Text" />
   </g>
@@ -119,7 +119,7 @@
     <path
        class="ColorScheme-Text"
        inkscape:connector-curvature="0"
-       style="color:#31363b;fill:#323232;fill-opacity:1"
+       style="color:#31363b;fill:#eaeaea;fill-opacity:1"
        d="M 8,17 7,16 12,11 7,6 8,5 l 6,6 z"
        id="path3774"
        sodipodi:nodetypes="ccccccc" />
@@ -138,7 +138,7 @@
        sodipodi:nodetypes="ccccccc"
        id="path3782"
        d="m 5,8 1,-1 5,5 5,-5 1,1 -6,6 z"
-       style="color:#31363b;fill:#323232;fill-opacity:1"
+       style="color:#31363b;fill:#eaeaea;fill-opacity:1"
        inkscape:connector-curvature="0"
        class="ColorScheme-Text" />
   </g>
@@ -155,7 +155,7 @@
     <path
        class="ColorScheme-Text"
        inkscape:connector-curvature="0"
-       style="color:#31363b;fill:#323232;fill-opacity:1"
+       style="color:#31363b;fill:#eaeaea;fill-opacity:1"
        d="M 14,17 15,16 10,11 15,6 14,5 8,11 Z"
        id="path3790"
        sodipodi:nodetypes="ccccccc" />
