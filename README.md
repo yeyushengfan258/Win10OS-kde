@@ -1,6 +1,6 @@
-## We10XOSWT KDE Theme
+## Win10OS KDE Theme
 
-We10XOSWT kde is a light clean theme for KDE Plasma desktop.
+Win10OS kde is a light clean theme for KDE Plasma desktop.
 
 In this repository you'll find:
 

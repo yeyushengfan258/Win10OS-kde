@@ -1,5 +1,5 @@
 
-We10XOSWT sddm theme for KDE Plasma desktop.
+Win10OS sddm theme for KDE Plasma desktop.
 
 ## Installation
 

@@ -1,6 +1,6 @@
 [Desktop Entry]
-Name=We10XOSWT
-Comment=We10XOSWT theme for kde plasma
+Name=Win10OS
+Comment=Win10OS theme for kde plasma
 Encoding=UTF-8
 Keywords=Desktop;Workspace;Appearance;Look and Feel;Logout;Lock;Suspend;Shutdown;Hibernate;
 
@@ -12,9 +12,9 @@ X-KDE-PluginInfo-Author=yeyushengfan258
 X-KDE-PluginInfo-Category=
 X-KDE-PluginInfo-Email=yeyushengfan258@aliyun.com
 X-KDE-PluginInfo-License=GPL3.0
-X-KDE-PluginInfo-Name=com.github.yeyushengfan258.We10XOSWT
+X-KDE-PluginInfo-Name=com.github.yeyushengfan258.Win10OS
 X-KDE-PluginInfo-Version=
-X-KDE-PluginInfo-Website=https://github.com/yeyushengfan258/We10XOSWT-kde
+X-KDE-PluginInfo-Website=https://github.com/yeyushengfan258/Win10OS-kde
 X-KDE-fallbackPackage=org.kde.breeze.desktop
 X-Plasma-MainScript=defaults
 X-KPackage-Dependencies=kns://colorschemes.knsrc/api.kde-look.org/1363020,kns://plasma-themes.knsrc/api.kde-look.org/1363026,kns://aurorae.knsrc/api.kde-look.org/1363017,kns://icons.knsrc/api.kde-look.org/1366371,kns://wallpaper.knsrc/api.kde-look.org/1368857,kns://sddmtheme.knsrc/api.kde-look.org/1363024,kns://xcursor.knsrc/api.kde-look.org/1381208
