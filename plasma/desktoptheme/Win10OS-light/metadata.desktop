@@ -18,6 +18,6 @@ saturation=1.7
 
 [Wallpaper]
 defaultWallpaperTheme=Win10OS
-defaultFileSuffix=.jpg
-defaultWidth=1920
-defaultHeight=1080
+defaultFileSuffix=.png
+defaultWidth=2560
+defaultHeight=1440
