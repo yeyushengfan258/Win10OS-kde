@@ -7,7 +7,7 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
    sodipodi:docname="manjaro.svg"
    version="1.1"
    height="22"
@@ -16,17 +16,17 @@
   <sodipodi:namedview
      inkscape:current-layer="svg"
      inkscape:window-maximized="1"
-     inkscape:window-y="0"
+     inkscape:window-y="38"
      inkscape:window-x="0"
-     inkscape:cy="-20.930427"
-     inkscape:cx="-6.1846705"
-     inkscape:zoom="11.313709"
+     inkscape:cy="9.2732493"
+     inkscape:cx="-32.350174"
+     inkscape:zoom="4.0000002"
      inkscape:snap-bbox-edge-midpoints="true"
      inkscape:bbox-nodes="true"
      inkscape:snap-bbox="true"
      showgrid="true"
      id="namedview15"
-     inkscape:window-height="999"
+     inkscape:window-height="935"
      inkscape:window-width="1920"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
@@ -73,29 +73,9 @@
        height="22"
        width="22" />
     <path
-       sodipodi:nodetypes="ccccccccccccccccc"
        id="path846"
-       p-id="13516"
-       d="M 3,3 V 19 H 8 V 8 h 5 V 3 Z m 6,6 v 10 h 4 V 9 Z m 5,-6 v 16 h 5 V 3 Z"
-       style="fill:#fbfbfb;fill-opacity:1;stroke-width:0.015625" />
-  </g>
-  <g
-     id="manjaro-settings-manager">
-    <rect
-       style="color:#363636;fill:#363636"
-       x="-5"
-       id="rect14"
-       fill-opacity="0"
-       ry="0.63999999"
-       height="32"
-       width="32"
-       y="-39" />
-    <path
-       sodipodi:nodetypes="ccccccccccccccccc"
-       style="fill:#fbfbfb;fill-opacity:1;stroke-width:0.0234375"
-       d="m -1,-35 v 24 h 7 v -17 h 8 v -7 z m 9,9 v 15 h 6 v -15 z m 8,-9 v 24 h 7 v -24 z"
-       p-id="13516"
-       id="path856" />
+       style="fill:#fbfbfb;fill-opacity:1;stroke-width:0.015625"
+       d="M 3 3 L 3 19 L 8 19 L 8 8 L 13 8 L 13 3 L 3 3 z M 14 3 L 14 19 L 19 19 L 19 3 L 14 3 z M 4 4 L 12 4 L 12 7 L 7 7 L 7 18 L 4 18 L 4 4 z M 15 4 L 18 4 L 18 18 L 15 18 L 15 4 z M 9 9 L 9 19 L 13 19 L 13 9 L 9 9 z M 10 10 L 12 10 L 12 18 L 10 18 L 10 10 z " />
   </g>
   <g
      id="16-16-manjaro-settings-manager">
@@ -108,10 +88,42 @@
        y="26.999985"
        x="3" />
     <path
-       sodipodi:nodetypes="ccccccccccccccccc"
+       id="path858"
        style="fill:#fbfbfb;fill-opacity:1;stroke-width:0.0117188"
-       d="m 5,29 v 12 h 3 v -9 h 5 v -3 z m 4,4 v 8 h 4 v -8 z m 5,-4 v 12 h 3 V 29 Z"
-       p-id="13516"
-       id="path858" />
+       d="M 5 29 L 5 41 L 8 41 L 8 32 L 13 32 L 13 29 L 5 29 z M 14 29 L 14 41 L 17 41 L 17 29 L 14 29 z M 6 30 L 12 30 L 12 31 L 7 31 L 7 40 L 6 40 L 6 30 z M 15 30 L 16 30 L 16 40 L 15 40 L 15 30 z M 9 33 L 9 41 L 13 41 L 13 33 L 9 33 z M 10 34 L 12 34 L 12 40 L 10 40 L 10 34 z " />
   </g>
+  <g
+     id="manjaro-settings-manager">
+    <path
+       id="path856"
+       style="fill:#fbfbfb;fill-opacity:1;stroke-width:0.0234375"
+       d="m -1,-35 v 24 h 7 v -17 h 8 v -7 z m 17,0 v 24 h 7 v -24 z m -16,1 h 13 v 5 H 5 v 17 H 0 Z m 17,0 h 5 v 22 h -5 z m -9,8 v 15 h 6 v -15 z m 1,1 h 4 v 13 H 9 Z" />
+    <rect
+       style="color:#363636;fill:#363636"
+       x="-5"
+       id="rect14"
+       fill-opacity="0"
+       ry="0.63999999"
+       height="32"
+       width="32"
+       y="-39" />
+  </g>
+  <path
+     sodipodi:nodetypes="ccccccccccccccccc"
+     style="fill:#fbfbfb;fill-opacity:1;stroke-width:0.0234375"
+     d="m -65,-35 v 24 h 7 v -17 h 8 v -7 z m 9,9 v 15 h 6 v -15 z m 8,-9 v 24 h 7 v -24 z"
+     p-id="13516"
+     id="path905" />
+  <path
+     sodipodi:nodetypes="ccccccccccccccccc"
+     id="path921"
+     p-id="13516"
+     d="m -25,3 v 16 h 5 V 8 h 5 V 3 Z m 6,6 v 10 h 4 V 9 Z m 5,-6 v 16 h 5 V 3 Z"
+     style="fill:#fbfbfb;fill-opacity:1;stroke-width:0.015625" />
+  <path
+     sodipodi:nodetypes="ccccccccccccccccc"
+     style="fill:#fbfbfb;fill-opacity:1;stroke-width:0.0117188"
+     d="m -25,29 v 12 h 3 v -9 h 5 v -3 z m 4,4 v 8 h 4 v -8 z m 5,-4 v 12 h 3 V 29 Z"
+     p-id="13516"
+     id="path936" />
 </svg>
