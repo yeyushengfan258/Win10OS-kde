@@ -8,7 +8,7 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15, custom)"
    sodipodi:docname="button.svg"
    id="svg414"
    version="1.0"
@@ -35,14 +35,14 @@
      inkscape:snap-bbox="true"
      inkscape:current-layer="svg414"
      inkscape:window-maximized="1"
-     inkscape:window-y="0"
+     inkscape:window-y="40"
      inkscape:window-x="0"
-     inkscape:cy="97.723797"
-     inkscape:cx="275.28923"
+     inkscape:cy="113.11541"
+     inkscape:cx="262.56622"
      inkscape:zoom="5.6568542"
      showgrid="true"
      id="namedview416"
-     inkscape:window-height="992"
+     inkscape:window-height="957"
      inkscape:window-width="1920"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
@@ -845,10 +845,10 @@
   <rect
      y="236"
      x="-105"
-     height="5.9999962"
+     height="4"
      width="1.9999999"
      id="toolbutton-hover-hint-left-margin"
-     style="fill:#4e9a06;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.22474444"
+     style="fill:#4e9a06;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1"
      transform="rotate(-90)" />
   <g
      transform="matrix(0.99999999,0,0,0.85618573,237.99999,-775.87851)"
@@ -933,27 +933,27 @@
      style="opacity:0.15;fill:#ffffff;stroke-width:0.99999994"
      inkscape:connector-curvature="0" />
   <rect
-     style="fill:#4e9a06;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.22474217"
+     style="fill:#4e9a06;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1"
      id="toolbutton-hover-hint-top-margin"
      width="1.9999999"
-     height="5.9999743"
+     height="4"
      x="258"
      y="80.000023" />
   <rect
      transform="rotate(-90)"
-     style="fill:#4e9a06;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.22474504"
+     style="fill:#4e9a06;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1"
      id="toolbutton-hover-hint-right-margin"
      width="1.9999999"
-     height="6"
+     height="4"
      x="-104.00002"
-     y="276" />
+     y="278" />
   <rect
-     y="120.00003"
+     y="122"
      x="258"
-     height="5.9999695"
+     height="4"
      width="1.9999999"
      id="toolbutton-hover-hint-bottom-margin"
-     style="fill:#4e9a06;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.22474146" />
+     style="fill:#4e9a06;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1" />
   <g
      style="stroke-width:1.11803436"
      transform="matrix(-1.2000009,0,0,0.99999999,392.20005,66.999878)"
@@ -994,10 +994,10 @@
   <rect
      y="291"
      x="-104"
-     height="6"
+     height="4"
      width="1.9999999"
      id="toolbutton-pressed-hint-left-margin"
-     style="fill:#4e9a06;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.2247448"
+     style="fill:#4e9a06;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1"
      transform="rotate(-90)" />
   <g
      transform="matrix(0.99999999,0,0,0.85618574,293,-775.87864)"
@@ -1082,27 +1082,27 @@
      style="opacity:0.3;fill:#ffffff;fill-opacity:1;stroke-width:0.99999994"
      inkscape:connector-curvature="0" />
   <rect
-     style="fill:#4e9a06;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.2247324"
+     style="fill:#4e9a06;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1"
      id="toolbutton-pressed-hint-top-margin"
      width="1.9999999"
-     height="5.9998779"
+     height="4"
      x="313"
      y="80" />
   <rect
      transform="rotate(-90)"
-     style="fill:#4e9a06;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.22474182"
+     style="fill:#4e9a06;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1"
      id="toolbutton-pressed-hint-right-margin"
      width="1.9999999"
-     height="5.999969"
+     height="4"
      x="-103"
-     y="331.00003" />
+     y="333" />
   <rect
-     y="119.99992"
+     y="122"
      x="313"
-     height="6.0000763"
+     height="4"
      width="1.9999999"
      id="toolbutton-pressed-hint-bottom-margin"
-     style="fill:#4e9a06;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.22475231" />
+     style="fill:#4e9a06;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1" />
   <rect
      y="51.999897"
      x="133"

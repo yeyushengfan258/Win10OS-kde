@@ -8,7 +8,7 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15, custom)"
    sodipodi:docname="button.svg"
    id="svg414"
    version="1.0"
@@ -54,10 +54,10 @@
   <rect
      y="235"
      x="-99.999977"
-     height="5.9999962"
+     height="4"
      width="1.9999999"
      id="toolbutton-hover-hint-left-margin"
-     style="fill:#4e9a06;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.22474"
+     style="fill:#4e9a06;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.999996"
      transform="rotate(-90)" />
   <g
      transform="matrix(0.99999999,0,0,0.85618573,237,-780.87854)"
@@ -142,27 +142,27 @@
      style="opacity:0.55;fill:#ffffff;stroke-width:1"
      inkscape:connector-curvature="0" />
   <rect
-     style="fill:#4e9a06;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.22474"
+     style="fill:#4e9a06;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.999998"
      id="toolbutton-hover-hint-top-margin"
      width="1.9999999"
-     height="5.9999743"
+     height="4"
      x="257"
      y="75" />
   <rect
      transform="rotate(-90)"
-     style="fill:#4e9a06;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.22475"
+     style="fill:#4e9a06;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1"
      id="toolbutton-hover-hint-right-margin"
      width="1.9999999"
-     height="6"
+     height="4"
      x="-99"
-     y="275" />
+     y="277" />
   <rect
-     y="115.00001"
+     y="117"
      x="257"
-     height="5.9999695"
+     height="4"
      width="1.9999999"
      id="toolbutton-hover-hint-bottom-margin"
-     style="fill:#4e9a06;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.22474" />
+     style="fill:#4e9a06;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.999999" />
   <g
      style="stroke-width:1.11803"
      transform="matrix(-1.2000009,0,0,0.99999999,391.20006,61.999852)"
@@ -203,10 +203,10 @@
   <rect
      y="290"
      x="-98.999977"
-     height="6"
+     height="4"
      width="1.9999999"
      id="toolbutton-pressed-hint-left-margin"
-     style="fill:#4e9a06;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.22474"
+     style="fill:#4e9a06;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.999996"
      transform="rotate(-90)" />
   <g
      transform="matrix(0.99999999,0,0,0.85618574,292.00001,-780.87867)"
@@ -291,27 +291,27 @@
      style="opacity:0.7;fill:#ffffff;fill-opacity:1;stroke-width:1"
      inkscape:connector-curvature="0" />
   <rect
-     style="fill:#4e9a06;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.22473"
+     style="fill:#4e9a06;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.999998"
      id="toolbutton-pressed-hint-top-margin"
      width="1.9999999"
-     height="5.9998779"
+     height="4"
      x="312"
      y="74.999977" />
   <rect
      transform="rotate(-90)"
-     style="fill:#4e9a06;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.22474"
+     style="fill:#4e9a06;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.999999"
      id="toolbutton-pressed-hint-right-margin"
      width="1.9999999"
-     height="5.999969"
+     height="4"
      x="-97.999985"
-     y="330.00003" />
+     y="332" />
   <rect
-     y="114.9999"
+     y="117"
      x="312"
-     height="6.0000763"
+     height="4"
      width="1.9999999"
      id="toolbutton-pressed-hint-bottom-margin"
-     style="fill:#4e9a06;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.22475" />
+     style="fill:#4e9a06;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.999998" />
   <metadata
      id="metadata418">
     <rdf:RDF>
@@ -333,14 +333,14 @@
      inkscape:snap-bbox="true"
      inkscape:current-layer="svg414"
      inkscape:window-maximized="1"
-     inkscape:window-y="0"
+     inkscape:window-y="40"
      inkscape:window-x="0"
-     inkscape:cy="103.59091"
-     inkscape:cx="268.762"
-     inkscape:zoom="3.9999998"
+     inkscape:cy="109.65644"
+     inkscape:cx="275.53577"
+     inkscape:zoom="7.9999996"
      showgrid="true"
      id="namedview416"
-     inkscape:window-height="992"
+     inkscape:window-height="957"
      inkscape:window-width="1920"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
