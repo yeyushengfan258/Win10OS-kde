@@ -5,7 +5,7 @@
    version="1.1"
    id="svg21"
    sodipodi:docname="kdf.svg"
-   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -34,14 +34,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="999"
+     inkscape:window-height="965"
      id="namedview23"
      showgrid="true"
      inkscape:zoom="8.806818"
      inkscape:cx="-41.615485"
      inkscape:cy="12.149678"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="40"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg21"
      inkscape:pagecheckerboard="0">
@@ -81,7 +81,7 @@
          d="m -56,23 c -0.554,0 -1,0.446 -1,1 v 4 c 0,0.554 0.446,1 1,1 h 12 c 0.554,0 1,-0.446 1,-1 v -4 c 0,-0.554 -0.446,-1 -1,-1 z m 0,1 h 12 v 4 h -12 z"
          sodipodi:nodetypes="sssssssssccccc" />
       <circle
-         style="opacity:0.8;fill:#04ff04;fill-opacity:1;stroke-width:0.0999996;stroke-linecap:round;stroke-linejoin:round"
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke-width:0.0999996;stroke-linecap:round;stroke-linejoin:round"
          id="circle1664"
          cx="-53"
          cy="26"
@@ -112,7 +112,7 @@
          d="m 34,-22 c -0.549112,0 -0.687596,0.539044 -0.992188,1 l -3.964979,6.708456 H 50.957167 L 46.992188,-21 C 46.687596,-21.460956 46.549112,-22 46,-22 Z"
          sodipodi:nodetypes="sccccss" />
       <circle
-         style="opacity:0.8;fill:#04ff04;fill-opacity:1;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round"
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round"
          id="path4724"
          cx="33"
          cy="-11"
@@ -143,7 +143,7 @@
          d="m -58.898065,18.042423 c -0.706001,0 -1.178314,0.693057 -1.569932,1.285715 L -63,22.650588 h 18 l -2.538772,-3.32245 c -0.391618,-0.592658 -0.839371,-1.285715 -1.545372,-1.285715 z"
          sodipodi:nodetypes="sccccss" />
       <circle
-         style="opacity:0.8;fill:#04ff04;fill-opacity:1;stroke-width:0.0999996;stroke-linecap:round;stroke-linejoin:round"
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke-width:0.0999996;stroke-linecap:round;stroke-linejoin:round"
          id="path4724-7-3"
          cx="-59"
          cy="25.5"

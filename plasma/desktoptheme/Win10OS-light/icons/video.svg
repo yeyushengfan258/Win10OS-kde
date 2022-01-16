@@ -6,7 +6,7 @@
    version="1.1"
    viewBox="0 0 22 22"
    sodipodi:docname="video.svg"
-   inkscape:version="1.1 (c4e8f9ed74, 2021-05-24)"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -23,11 +23,11 @@
      inkscape:pageopacity="0"
      inkscape:pagecheckerboard="0"
      showgrid="true"
-     inkscape:zoom="12.840416"
-     inkscape:cx="2.2974334"
-     inkscape:cy="4.6338063"
+     inkscape:zoom="9.0795452"
+     inkscape:cx="9.6370466"
+     inkscape:cy="-15.529412"
      inkscape:window-width="1920"
-     inkscape:window-height="954"
+     inkscape:window-height="965"
      inkscape:window-x="0"
      inkscape:window-y="40"
      inkscape:window-maximized="1"
@@ -114,121 +114,6 @@
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <g
-     id="22-22-video-display-brightness">
-    <g
-       transform="translate(-39.5,1)"
-       fill="#fbfbfb"
-       id="g82"
-       style="fill:#000000;fill-opacity:1">
-      <circle
-         cx="50.5"
-         cy="9.5"
-         r="1.5"
-         id="circle64"
-         style="fill:#000000;fill-opacity:1" />
-      <rect
-         x="50"
-         y="6"
-         width="1"
-         height="1"
-         ry="0.5"
-         id="rect66"
-         style="fill:#000000;fill-opacity:1" />
-      <rect
-         x="50"
-         y="12"
-         width="1"
-         height="1"
-         ry="0.5"
-         id="rect68"
-         style="fill:#000000;fill-opacity:1" />
-      <rect
-         transform="rotate(45)"
-         x="41.925999"
-         y="-32.491001"
-         width="1"
-         height="1"
-         ry="0.5"
-         id="rect70"
-         style="fill:#000000;fill-opacity:1" />
-      <rect
-         transform="rotate(45)"
-         x="41.925999"
-         y="-26.490999"
-         width="1"
-         height="1"
-         ry="0.5"
-         id="rect72"
-         style="fill:#000000;fill-opacity:1" />
-      <rect
-         transform="rotate(90)"
-         x="9"
-         y="-54"
-         width="1"
-         height="1"
-         ry="0.5"
-         id="rect74"
-         style="fill:#000000;fill-opacity:1" />
-      <rect
-         transform="rotate(90)"
-         x="9"
-         y="-48"
-         width="1"
-         height="1"
-         ry="0.5"
-         id="rect76"
-         style="fill:#000000;fill-opacity:1" />
-      <rect
-         transform="rotate(-45)"
-         x="28.490999"
-         y="38.925999"
-         width="1"
-         height="1"
-         ry="0.5"
-         id="rect78"
-         style="fill:#000000;fill-opacity:1" />
-      <rect
-         transform="rotate(-45)"
-         x="28.490999"
-         y="44.925999"
-         width="1"
-         height="1"
-         ry="0.5"
-         id="rect80"
-         style="fill:#000000;fill-opacity:1" />
-    </g>
-    <rect
-       id="rect3832-67"
-       x="0"
-       y="0"
-       width="22"
-       height="22"
-       fill-opacity="0" />
-    <path
-       id="rect1615"
-       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.935414;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 2,5 v 1 9 1 H 3 20 V 15 5 h -1 z m 1,1 h 16 v 9 H 3 Z"
-       sodipodi:nodetypes="ccccccccccccccc" />
-    <rect
-       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect1633"
-       width="4"
-       height="1"
-       x="15"
-       y="-11.5"
-       transform="rotate(90)" />
-    <rect
-       inkscape:transform-center-y="-0.011048543"
-       inkscape:transform-center-x="0.44857085"
-       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.661438;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect1635"
-       width="7"
-       height="1"
-       x="-14.5"
-       y="-19"
-       transform="scale(-1)" />
-  </g>
   <g
      id="video-display-brightness">
     <g
@@ -321,29 +206,159 @@
          style="fill:#000000;fill-opacity:1" />
     </g>
     <rect
-       id="rect3832-6-3"
+       id="rect3832-6-3-3"
        x="-5"
        y="-34"
        width="32"
        height="32"
        fill-opacity="0" />
     <path
-       id="rect991"
+       id="rect991-6"
        style="fill:#000000;fill-opacity:1;stroke-linecap:round;stroke-linejoin:round"
        d="m -2,-28 v 18 h 26 v -18 z m 1,1 h 24 v 16 H -1 Z" />
     <rect
        style="fill:#000000;fill-opacity:1;stroke-linecap:round;stroke-linejoin:round"
-       id="rect996"
+       id="rect996-7"
        width="1"
        height="5"
-       x="10"
+       x="6"
        y="-11" />
     <rect
-       style="fill:#000000;fill-opacity:1;stroke-linecap:round;stroke-linejoin:round"
-       id="rect998"
-       width="11"
+       style="fill:#000000;fill-opacity:1;stroke-width:1.16775;stroke-linecap:round;stroke-linejoin:round"
+       id="rect998-5"
+       width="15"
        height="1"
-       x="5"
+       x="3"
        y="-7" />
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke-linecap:round;stroke-linejoin:round"
+       id="rect1221"
+       width="1"
+       height="5"
+       x="14"
+       y="-11" />
+  </g>
+  <g
+     id="22-22-video-display-brightness">
+    <g
+       transform="translate(-39.5,1)"
+       fill="#fbfbfb"
+       id="g82"
+       style="fill:#000000;fill-opacity:1">
+      <circle
+         cx="50.5"
+         cy="9.5"
+         r="1.5"
+         id="circle64"
+         style="fill:#000000;fill-opacity:1" />
+      <rect
+         x="50"
+         y="6"
+         width="1"
+         height="1"
+         ry="0.5"
+         id="rect66"
+         style="fill:#000000;fill-opacity:1" />
+      <rect
+         x="50"
+         y="12"
+         width="1"
+         height="1"
+         ry="0.5"
+         id="rect68"
+         style="fill:#000000;fill-opacity:1" />
+      <rect
+         transform="rotate(45)"
+         x="41.925999"
+         y="-32.491001"
+         width="1"
+         height="1"
+         ry="0.5"
+         id="rect70"
+         style="fill:#000000;fill-opacity:1" />
+      <rect
+         transform="rotate(45)"
+         x="41.925999"
+         y="-26.490999"
+         width="1"
+         height="1"
+         ry="0.5"
+         id="rect72"
+         style="fill:#000000;fill-opacity:1" />
+      <rect
+         transform="rotate(90)"
+         x="9"
+         y="-54"
+         width="1"
+         height="1"
+         ry="0.5"
+         id="rect74"
+         style="fill:#000000;fill-opacity:1" />
+      <rect
+         transform="rotate(90)"
+         x="9"
+         y="-48"
+         width="1"
+         height="1"
+         ry="0.5"
+         id="rect76"
+         style="fill:#000000;fill-opacity:1" />
+      <rect
+         transform="rotate(-45)"
+         x="28.490999"
+         y="38.925999"
+         width="1"
+         height="1"
+         ry="0.5"
+         id="rect78"
+         style="fill:#000000;fill-opacity:1" />
+      <rect
+         transform="rotate(-45)"
+         x="28.490999"
+         y="44.925999"
+         width="1"
+         height="1"
+         ry="0.5"
+         id="rect80"
+         style="fill:#000000;fill-opacity:1" />
+    </g>
+    <path
+       id="rect1615-3"
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.935414;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 3,5 v 1 9 1 H 4 19 V 15 5 h -1 z m 1,1 h 14 v 9 H 4 Z"
+       sodipodi:nodetypes="ccccccccccccccc" />
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1633-5"
+       width="4"
+       height="1"
+       x="16"
+       y="-14"
+       transform="rotate(90)" />
+    <rect
+       inkscape:transform-center-y="-0.011048543"
+       inkscape:transform-center-x="0.64081531"
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.790569;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1635-6"
+       width="10"
+       height="1"
+       x="-16"
+       y="-20"
+       transform="scale(-1)" />
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1533"
+       width="4"
+       height="1"
+       x="16"
+       y="-9"
+       transform="rotate(90)" />
+    <rect
+       id="rect3832-67-2"
+       x="0"
+       y="0"
+       width="22"
+       height="22"
+       fill-opacity="0" />
   </g>
 </svg>
