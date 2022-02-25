@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="22"
+   height="22"
+   version="1.1"
+   id="svg21"
+   sodipodi:docname="pamac.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview23"
+     pagecolor="#c8c8c8"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     showgrid="true"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-nodes="true"
+     inkscape:zoom="8"
+     inkscape:cx="14.4375"
+     inkscape:cy="35.625"
+     inkscape:window-width="1920"
+     inkscape:window-height="1005"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg21"
+     inkscape:object-paths="true"
+     inkscape:snap-intersection-paths="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid1777" />
+  </sodipodi:namedview>
+  <defs
+     id="defs3">
+    <style
+       id="current-color-scheme"
+       type="text/css">.ColorScheme-Text{color:#dfdfdf;}.ColorScheme-Highlight{color:#5294e2;}</style>
+  </defs>
+  <defs
+     id="defs7">
+    <style
+       type="text/css"
+       id="style5" />
+  </defs>
+  <g
+     id="22-22-pamac-tray-no-update">
+    <rect
+       width="22"
+       height="22"
+       opacity="0"
+       id="rect9"
+       x="0"
+       y="0" />
+    <g
+       id="g2987"
+       transform="translate(23,1)">
+      <path
+         d="m -11.999999,19 -0.190064,-0.07401 C -18.294122,16.55379 -19,13.453085 -19,11.327218 V 3.207611 l 0.544927,0.01878 c 4.242958,0.145259 6.049676,-1.780117 6.066704,-1.798896 L -11.999449,1 l 0.38837,0.427493 c 0.01428,0.01547 1.7265175,1.806628 5.6135145,1.806628 h 5.46e-4 c 0.1477673,0 0.2988316,-0.0022 0.4520919,-0.0077 L -5,3.207641 v 8.119608 c 0,2.125866 -0.705878,5.226572 -6.809937,7.598772 z M -17.946402,4.293464 v 7.033753 c 0,1.143296 5.46e-4,4.161706 5.946403,6.536115 5.946404,-2.374409 5.946404,-5.392819 5.946404,-6.536115 V 4.293464 c -3.292632,-0.0127 -5.187241,-1.190795 -5.946404,-1.799447 -0.759711,0.6081 -2.65432,1.785639 -5.946403,1.799447 z"
+         p-id="2558"
+         id="path6"
+         style="fill:#fbfbfb;fill-opacity:1;stroke-width:0.0175304"
+         sodipodi:nodetypes="ccscccccssccscccscsccc" />
+      <g
+         id="g2979">
+        <rect
+           style="opacity:1;fill:#fbfbfb;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3.24037;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+           id="rect2967"
+           width="7"
+           height="1"
+           x="-14"
+           y="-12.5"
+           ry="0"
+           transform="rotate(-90)" />
+        <g
+           id="g2973"
+           transform="translate(0.70710691)">
+          <rect
+             style="opacity:1;fill:#fbfbfb;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.73861;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+             id="rect1083"
+             width="5"
+             height="1"
+             x="-18.227922"
+             y="-4.7426405"
+             ry="0"
+             transform="rotate(-45)" />
+          <rect
+             style="opacity:1;fill:#fbfbfb;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.73861;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+             id="rect2969"
+             width="5"
+             height="1"
+             x="-0.2573595"
+             y="13.227922"
+             ry="0"
+             transform="matrix(-0.70710678,-0.70710678,-0.70710678,0.70710678,0,0)" />
+        </g>
+      </g>
+    </g>
+  </g>
+  <g
+     id="22-22-pamac-tray-update">
+    <rect
+       width="22"
+       height="22"
+       opacity="0"
+       id="rect2428"
+       x="38"
+       y="0" />
+    <g
+       id="g3238"
+       transform="translate(0,22)">
+      <g
+         id="g3001"
+         transform="translate(60.999999,-21)">
+        <path
+           id="path2989"
+           style="fill:#fbfbfb;fill-opacity:1;stroke-width:0.0175304"
+           d="m 49,-20 -0.388672,0.427734 c -0.01703,0.01878 -1.823448,1.944087 -6.066406,1.798828 L 42,-17.792969 v 8.121094 c 0,2.125867 0.706488,5.2254563 6.810547,7.5976562 L 49,-2 l 0.189453,-0.074219 c 0.744826,-0.2894592 1.407399,-0.5903791 2,-0.8984374 A 3,3 0 0 1 51,-4 a 3,3 0 0 1 0.0059,-0.076172 C 50.42638,-3.7558454 49.762482,-3.441179 49,-3.1367188 43.054143,-5.5111277 43.052734,-8.528579 43.052734,-9.671875 v -7.035156 c 3.292083,-0.01381 5.187555,-1.190728 5.947266,-1.798828 0.759163,0.608652 2.654634,1.786128 5.947266,1.798828 v 7.035156 c 0,0.5520119 -0.0026,1.5408707 -0.671875,2.6835938 a 3,3 0 0 1 1.048828,0.296875 C 55.881273,-7.7703733 56,-8.8024827 56,-9.671875 v -8.121094 l -0.544922,0.01953 c -0.15326,0.0055 -0.303404,0.0078 -0.451172,0.0078 h -0.002 c -3.886997,0 -5.599001,-1.791171 -5.613281,-1.806641 z"
+           transform="translate(-60.999999,21)" />
+        <g
+           id="g2999">
+          <rect
+             style="opacity:1;fill:#fbfbfb;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3.24037;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+             id="rect2991"
+             width="7"
+             height="1"
+             x="-14"
+             y="-12.5"
+             ry="0"
+             transform="rotate(-90)" />
+          <g
+             id="g2997"
+             transform="translate(0.70710691)">
+            <rect
+               style="opacity:1;fill:#fbfbfb;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.73861;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+               id="rect2993"
+               width="5"
+               height="1"
+               x="-18.227922"
+               y="-4.7426405"
+               ry="0"
+               transform="rotate(-45)" />
+            <rect
+               style="opacity:1;fill:#fbfbfb;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.73861;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+               id="rect2995"
+               width="5"
+               height="1"
+               x="-0.2573595"
+               y="13.227922"
+               ry="0"
+               transform="matrix(-0.70710678,-0.70710678,-0.70710678,0.70710678,0,0)" />
+          </g>
+        </g>
+      </g>
+      <circle
+         style="opacity:1;fill:#00a0ff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+         id="path3037"
+         cx="54"
+         cy="-4"
+         r="2" />
+    </g>
+  </g>
+  <g
+     id="pamac-tray-no-update">
+    <rect
+       style="fill:none;fill-opacity:1;stroke:none;stroke-width:2.11786;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers;stop-color:#000000"
+       id="rect1079"
+       width="32"
+       height="32"
+       x="-5"
+       y="30.050793"
+       rx="0"
+       ry="0" />
+    <g
+       id="g3465"
+       transform="matrix(1.4285713,0,0,1.3333333,28.142856,32.666667)">
+      <path
+         d="m -11.999999,19 -0.190064,-0.07401 C -18.294122,16.55379 -19,13.453085 -19,11.327218 V 3.207611 l 0.544927,0.01878 c 4.242958,0.145259 6.049676,-1.780117 6.066704,-1.798896 L -11.999449,1 l 0.38837,0.427493 c 0.01428,0.01547 1.7265175,1.806628 5.6135145,1.806628 h 5.46e-4 c 0.1477673,0 0.2988316,-0.0022 0.4520919,-0.0077 L -5,3.207641 v 8.119608 c 0,2.125866 -0.705878,5.226572 -6.809937,7.598772 z M -17.946402,4.293464 v 7.033753 c 0,1.143296 5.46e-4,4.161706 5.946403,6.536115 5.946404,-2.374409 5.946404,-5.392819 5.946404,-6.536115 V 4.293464 c -3.292632,-0.0127 -5.187241,-1.190795 -5.946404,-1.799447 -0.759711,0.6081 -2.65432,1.785639 -5.946403,1.799447 z"
+         p-id="2558"
+         id="path3453"
+         style="fill:#fbfbfb;fill-opacity:1;stroke-width:0.0175304"
+         sodipodi:nodetypes="ccscccccssccscccscsccc" />
+      <g
+         id="g3463">
+        <rect
+           style="opacity:1;fill:#fbfbfb;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3.24037;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+           id="rect3455"
+           width="7"
+           height="1"
+           x="-14"
+           y="-12.5"
+           ry="0"
+           transform="rotate(-90)" />
+        <g
+           id="g3461"
+           transform="translate(0.70710691)">
+          <rect
+             style="opacity:1;fill:#fbfbfb;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.73861;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+             id="rect3457"
+             width="5"
+             height="1"
+             x="-18.227922"
+             y="-4.7426405"
+             ry="0"
+             transform="rotate(-45)" />
+          <rect
+             style="opacity:1;fill:#fbfbfb;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.73861;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+             id="rect3459"
+             width="5"
+             height="1"
+             x="-0.2573595"
+             y="13.227922"
+             ry="0"
+             transform="matrix(-0.70710678,-0.70710678,-0.70710678,0.70710678,0,0)" />
+        </g>
+      </g>
+    </g>
+  </g>
+  <g
+     id="pamac-tray-update"
+     transform="translate(-44.999995)">
+    <rect
+       style="fill:none;fill-opacity:1;stroke:none;stroke-width:2.11786;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers;stop-color:#000000"
+       id="rect3729"
+       width="32"
+       height="32"
+       x="80"
+       y="30.050793"
+       rx="0"
+       ry="0" />
+    <g
+       id="g3743"
+       transform="matrix(1.4285713,0,0,1.3333333,113.14285,32.666667)">
+      <path
+         id="path3731"
+         style="fill:#fbfbfb;fill-opacity:1;stroke-width:0.0241942"
+         d="m 96,34 -0.554688,0.570312 c -0.02433,0.02504 -2.604647,2.592117 -8.666015,2.398438 L 86,36.943359 v 10.826172 c 0,2.83449 1.008432,6.967926 9.728516,10.13086 L 96,58 96.271484,57.90039 c 1.483823,-0.53821 2.74028,-1.10423 3.810546,-1.6875 A 3.5,3.5 0 0 1 100,55.5 3.5,3.5 0 0 1 100.14648,54.503906 C 99.058018,55.180334 97.702491,55.849888 96,56.484375 87.505919,53.318496 87.505859,49.293926 87.505859,47.769531 v -9.378906 c 4.702976,-0.01841 7.40884,-1.587638 8.494141,-2.398437 1.084518,0.811535 3.790381,2.381504 8.49414,2.398437 v 9.378906 c 0,0.844097 -0.003,2.454725 -1.44531,4.261719 A 3.5,3.5 0 0 1 103.5,52 a 3.5,3.5 0 0 1 1.24219,0.228516 C 105.78863,50.616168 106,49.058035 106,47.769531 V 36.943359 l -0.7793,0.02539 c -0.21894,0.0073 -0.43343,0.0098 -0.64453,0.0098 h -0.002 c -5.552854,0 -7.999133,-2.387577 -8.019532,-2.408204 z"
+         transform="matrix(0.70000006,0,0,0.75000002,-79.200005,-24.500001)" />
+      <g
+         id="g3741">
+        <rect
+           style="opacity:1;fill:#fbfbfb;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3.24037;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+           id="rect3733"
+           width="7"
+           height="1"
+           x="-14"
+           y="-12.5"
+           ry="0"
+           transform="rotate(-90)" />
+        <g
+           id="g3739"
+           transform="translate(0.70710691)">
+          <rect
+             style="opacity:1;fill:#fbfbfb;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.73861;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+             id="rect3735"
+             width="5"
+             height="1"
+             x="-18.227922"
+             y="-4.7426405"
+             ry="0"
+             transform="rotate(-45)" />
+          <rect
+             style="opacity:1;fill:#fbfbfb;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.73861;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+             id="rect3737"
+             width="5"
+             height="1"
+             x="-0.2573595"
+             y="13.227922"
+             ry="0"
+             transform="matrix(-0.70710678,-0.70710678,-0.70710678,0.70710678,0,0)" />
+        </g>
+      </g>
+    </g>
+    <circle
+       style="opacity:1;fill:#00a0ff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+       id="path3769"
+       cx="103.5"
+       cy="55.5"
+       r="2.5" />
+  </g>
+</svg>
