@@ -2,7 +2,7 @@
 <svg
    id="svg2"
    sodipodi:version="0.32"
-   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14, custom)"
    width="17"
    height="57"
    sodipodi:docname="lineedit.svg"
@@ -20,7 +20,7 @@
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:dc="http://purl.org/dc/elements/1.1/">
   <sodipodi:namedview
-     inkscape:window-height="965"
+     inkscape:window-height="989"
      inkscape:window-width="1920"
      inkscape:pageshadow="2"
      inkscape:pageopacity="1"
@@ -31,11 +31,11 @@
      bordercolor="#666666"
      pagecolor="#3a3a3a"
      id="base"
-     inkscape:zoom="5.656854"
-     inkscape:cx="102.4421"
-     inkscape:cy="57.275652"
+     inkscape:zoom="7.9999996"
+     inkscape:cx="76.250003"
+     inkscape:cy="62.062503"
      inkscape:window-x="0"
-     inkscape:window-y="40"
+     inkscape:window-y="0"
      inkscape:current-layer="svg2"
      showgrid="true"
      showguides="true"
@@ -50,7 +50,9 @@
      inkscape:snap-bbox-edge-midpoints="true"
      inkscape:snap-nodes="true"
      inkscape:document-rotation="0"
-     inkscape:pagecheckerboard="0">
+     inkscape:pagecheckerboard="0"
+     inkscape:showpageshadow="0"
+     inkscape:deskcolor="#3a3a3a">
     <inkscape:grid
        type="xygrid"
        id="grid5592"
@@ -362,7 +364,7 @@
        id="path2151" />
     <path
        id="path9000"
-       style="color:#3daee6;opacity:0.3;fill:#00a0ff;fill-opacity:1;stroke-width:1.25"
+       style="color:#3daee6;opacity:0.3;fill:#ffffff;fill-opacity:1;stroke-width:1.25"
        d="M 45 58 L 45 60 L 45 63 L 47 63 L 47 60 L 50 60 L 50 58 L 47 58 L 45 58 z "
        transform="translate(140.14,766.86)" />
   </g>
@@ -383,7 +385,7 @@
        inkscape:connector-curvature="0"
        style="color:#3daee6;opacity:1;fill:none;stroke-width:0.70711237" />
     <path
-       style="color:#3daee6;opacity:0.3;fill:#00a0ff;fill-opacity:1;stroke-width:0.70711237"
+       style="color:#3daee6;opacity:0.3;fill:#ffffff;fill-opacity:1;stroke-width:0.70711237"
        inkscape:connector-curvature="0"
        id="path4403"
        d="m 190.14,824.85994 v 2.00003 h 131 v -2.00003 z"

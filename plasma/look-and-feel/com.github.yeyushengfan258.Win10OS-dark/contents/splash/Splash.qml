@@ -42,7 +42,7 @@ Image {
         }
         Rectangle {
             radius: 3
-            color: "#01569b"
+            color: "#0b0b0e"
             anchors {
                 bottom: parent.bottom
                 bottomMargin: 50
@@ -58,7 +58,7 @@ Image {
                     bottom: parent.bottom
                 }
                 width: (parent.width / 6) * (stage - 1)
-                color: "#ffffff"
+                color: "#7bc6e3"
                 Behavior on width { 
                     PropertyAnimation {
                         duration: 250

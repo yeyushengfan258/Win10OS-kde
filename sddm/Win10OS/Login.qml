@@ -58,7 +58,7 @@ SessionManagementScreen {
                 radius: 6
                 border.color: "#ffffff"
                 border.width: 2
-                color: "#01569b"
+                color: "#1f2024"
             }
         }
     }
@@ -85,7 +85,7 @@ SessionManagementScreen {
                 radius: 6
                 border.color: "#ffffff"
                 border.width: 2
-                color: "#01569b"
+                color: "#1f2024"
             }
         }
 

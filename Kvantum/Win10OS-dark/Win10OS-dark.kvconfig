@@ -52,7 +52,7 @@ joined_inactive_tabs=true
 layout_spacing=6
 layout_margin=9
 scrollbar_in_view=true
-transient_scrollbar=true
+transient_scrollbar=false
 transient_groove=false
 submenu_overlap=0
 tooltip_delay=-1
@@ -71,6 +71,9 @@ dialog_button_layout=0
 intensity=1.00
 saturation=1.00
 shadowless_popup=false
+drag_from_buttons=false
+menu_blur_radius=0
+tooltip_blur_radius=0
 
 [GeneralColors]
 window.color=#2a2a2a    
@@ -95,7 +98,7 @@ progress.indicator.text.color=#dfdfdf
 
 [Hacks]
 transparent_ktitle_label=true
-transparent_dolphin_view=false
+transparent_dolphin_view=true
 transparent_pcmanfm_sidepane=true
 blur_translucent=true
 transparent_menutitle=true
@@ -118,14 +121,16 @@ kinetic_scrolling=false
 scroll_jump_workaround=false
 centered_forms=false
 noninteger_translucency=false
+blur_only_active_window=false
+style_vertical_toolbars=false
 
 [PanelButtonCommand]
 frame=true
 frame.element=button
 frame.top=6
 frame.bottom=10
-frame.left=7
-frame.right=7
+frame.left=0
+frame.right=0
 interior=true
 interior.element=button
 indicator.size=8

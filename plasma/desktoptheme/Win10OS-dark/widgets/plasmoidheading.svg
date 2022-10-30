@@ -4,7 +4,7 @@
    viewBox="0 0 173 56.000004"
    version="1.1"
    sodipodi:docname="plasmoidheading.svg"
-   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14, custom)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -35,19 +35,21 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="999"
+     inkscape:window-height="1005"
      id="namedview39"
      showgrid="false"
-     inkscape:zoom="7.0106665"
-     inkscape:cx="59.409473"
-     inkscape:cy="19.684291"
+     inkscape:zoom="9.9145796"
+     inkscape:cx="50.128197"
+     inkscape:cy="21.130497"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2"
      inkscape:lockguides="true"
      inkscape:document-rotation="0"
-     inkscape:pagecheckerboard="0" />
+     inkscape:pagecheckerboard="0"
+     inkscape:showpageshadow="0"
+     inkscape:deskcolor="#c8c8c8" />
   <style
      id="current-color-scheme"
      type="text/css" />
@@ -86,7 +88,7 @@
        id="rect3154"
        class="ColorScheme-Text"
        d="m 51,49 v 1 H 19 v -1 z"
-       style="color:#232629;opacity:0.001;fill:#020203;fill-opacity:1"
+       style="color:#232629;opacity:0.001;fill:#ffffff;fill-opacity:1"
        inkscape:connector-curvature="0" />
   </g>
   <path
@@ -107,7 +109,7 @@
        id="path3178"
        class="ColorScheme-Text"
        d="m 57,49 h -6 v 1 h 6 c 0,-1 -2e-5,0 0,-1 z"
-       style="color:#232629;opacity:0.001;fill:#020203;fill-opacity:1;fill-rule:evenodd"
+       style="color:#232629;opacity:0.001;fill:#ffffff;fill-opacity:1;fill-rule:evenodd"
        inkscape:connector-curvature="0" />
   </g>
   <g
@@ -122,7 +124,7 @@
        id="path3184"
        class="ColorScheme-Text"
        d="m 19,50 v -1 h -4 l -2,-2e-5 v 1 L 15,50 h 1 z"
-       style="color:#232629;opacity:0.001;fill:#020203;fill-opacity:1;fill-rule:evenodd"
+       style="color:#232629;opacity:0.001;fill:#ffffff;fill-opacity:1;fill-rule:evenodd"
        inkscape:connector-curvature="0" />
   </g>
   <path
@@ -141,19 +143,19 @@
      id="footer-center"
      class="ColorScheme-Background"
      d="M 67,44 H 99 V 12 H 67 Z"
-     style="color:#eff0f1;opacity:0.1;fill:#000000;fill-opacity:1"
+     style="color:#eff0f1;opacity:0.001;fill:#000000;fill-opacity:1"
      inkscape:connector-curvature="0" />
   <path
      id="footer-right"
      class="ColorScheme-Background"
      d="m 99,44 h 6 V 12 h -6 z"
-     style="color:#eff0f1;opacity:0.1;fill:#000000;fill-opacity:1"
+     style="color:#eff0f1;opacity:0.001;fill:#000000;fill-opacity:1"
      inkscape:connector-curvature="0" />
   <path
      id="footer-bottom"
      class="ColorScheme-Background"
      d="m 67,44.000004 v 6 h 32 v -6 z"
-     style="color:#eff0f1;opacity:0.1;fill:#000000;fill-opacity:1"
+     style="color:#eff0f1;opacity:0.001;fill:#000000;fill-opacity:1"
      inkscape:connector-curvature="0" />
   <g
      id="footer-top">
@@ -161,7 +163,7 @@
        id="rect3152-0"
        class="ColorScheme-Background"
        d="M 99,12.000004 V 6.000003 H 67 v 6.000001 z"
-       style="color:#eff0f1;opacity:0.1;fill:#000000;fill-opacity:1"
+       style="color:#eff0f1;opacity:0.001;fill:#000000;fill-opacity:1"
        inkscape:connector-curvature="0" />
     <path
        id="rect3154-9"
@@ -174,7 +176,7 @@
      id="footer-left"
      class="ColorScheme-Background"
      d="m 67,12 h -6 v 32 h 6 z"
-     style="color:#eff0f1;opacity:0.1;fill:#000000;fill-opacity:1"
+     style="color:#eff0f1;opacity:0.001;fill:#000000;fill-opacity:1"
      inkscape:connector-curvature="0" />
   <g
      id="footer-topright">
@@ -182,7 +184,7 @@
        id="path3176-6"
        class="ColorScheme-Background"
        d="M 105,12.000004 H 99 V 6.0000034 h 6 v 5.0000006 z"
-       style="color:#eff0f1;opacity:0.1;fill:#000000;fill-opacity:1"
+       style="color:#eff0f1;opacity:0.001;fill:#000000;fill-opacity:1"
        inkscape:connector-curvature="0" />
     <path
        id="path3178-2"
@@ -197,7 +199,7 @@
        id="path3182-1"
        class="ColorScheme-Background"
        d="m 67,6 v 6 H 61 V 6 c 6,-4e-5 0,0 4,0 h 1 z"
-       style="color:#eff0f1;opacity:0.1;fill:#000000;fill-opacity:1;stroke-width:1"
+       style="color:#eff0f1;opacity:0.001;fill:#000000;fill-opacity:1;stroke-width:1"
        inkscape:connector-curvature="0" />
     <path
        id="path3184-8"
@@ -210,13 +212,13 @@
      id="footer-bottomleft"
      class="ColorScheme-Background"
      d="m 64,50 c -2,0 -3,-1 -3,-3 v -3 h 6 v 6 h -1 1 z"
-     style="color:#eff0f1;opacity:0.1;fill:#000000;fill-opacity:1"
+     style="color:#eff0f1;opacity:0.001;fill:#000000;fill-opacity:1"
      inkscape:connector-curvature="0" />
   <path
      id="footer-bottomright"
      class="ColorScheme-Background"
      d="m 99,50.000004 v -6 h 6 v 3 c 0,2 -1,3 -3,3 h -2 z"
-     style="color:#eff0f1;opacity:0.1;fill:#000000;fill-opacity:1"
+     style="color:#eff0f1;opacity:0.001;fill:#000000;fill-opacity:1"
      inkscape:connector-curvature="0" />
   <path
      id="hint-top-margin"
