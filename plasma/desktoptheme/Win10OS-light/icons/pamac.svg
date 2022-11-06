@@ -5,7 +5,7 @@
    version="1.1"
    id="svg21"
    sodipodi:docname="pamac.svg"
-   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14, custom)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -24,8 +24,8 @@
      inkscape:snap-bbox-edge-midpoints="true"
      inkscape:snap-nodes="true"
      inkscape:zoom="8"
-     inkscape:cx="14.4375"
-     inkscape:cy="35.625"
+     inkscape:cx="10.5"
+     inkscape:cy="35.6875"
      inkscape:window-width="1920"
      inkscape:window-height="1005"
      inkscape:window-x="0"
@@ -33,7 +33,9 @@
      inkscape:window-maximized="1"
      inkscape:current-layer="svg21"
      inkscape:object-paths="true"
-     inkscape:snap-intersection-paths="true">
+     inkscape:snap-intersection-paths="true"
+     inkscape:showpageshadow="0"
+     inkscape:deskcolor="#c8c8c8">
     <inkscape:grid
        type="xygrid"
        id="grid1777" />
@@ -160,7 +162,7 @@
         </g>
       </g>
       <circle
-         style="opacity:1;fill:#00a0ff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+         style="opacity:1;fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
          id="path3037"
          cx="54"
          cy="-4"
@@ -279,7 +281,7 @@
       </g>
     </g>
     <circle
-       style="opacity:1;fill:#00a0ff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+       style="opacity:1;fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
        id="path3769"
        cx="103.5"
        cy="55.5"
